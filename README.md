@@ -1,3 +1,4 @@
+//to republish after making changes: npm version patch, git add . , git commit -m "patch each"
 # lodown
 An npm functional programming library project
 
